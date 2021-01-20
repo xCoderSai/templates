@@ -15,7 +15,7 @@ Some email templates include
 - Basic HTML and JS, with CSS formatting. Not that hard.
 
 - [example 1](https://github.com/xCoderSai/templates/blob/main/image0%20(2).jpeg "Title")
-- [example 2] (https://github.com/xCoderSai/templates/blob/main/image0%20(2).jpeg)
+- [example 2] (https://github.com/xCoderSai/templates/blob/main/image0%20(1).jpeg "Title")
 
 # The Future of this project
 I plan on adding more as time passes, which will be listed below.
