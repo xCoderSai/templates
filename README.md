@@ -1,6 +1,8 @@
 # About ⚙️
 
-I decided to create a few email (and eventually website) templates that seem legit, and have hyperlinks editable so you can put essentially any links, rickrolls, or memes you want to trick your friends and have fun. Many Sysadmins seem to use this or outsource email templates like these at a premium for internal usage. Was extremely hesitant to make this project but decided to because I believe in 🤑FREE🤑 resources. 
+I decided to create a few email (and eventually website) templates that seem legit, and have hyperlinks editable so you can put essentially any links, rickrolls, or memes you want to trick your friends and have fun. Many Sysadmins seem to use this or outsource email templates like these at a premium for internal usage. Was extremely hesitant to make this project but decided to because I believe in 🤑FREE🤑 resources.
+
+- SIDENOTE: I had to do a picture version for Twitch confirmation as the html one came out weird; You MIGHT need to do it to Amazon's too
 
 Some email templates include
 - CHASE Bank 💵
