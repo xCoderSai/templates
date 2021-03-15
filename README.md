@@ -15,6 +15,8 @@ Some email templates include
 
 # Features
 - Basic HTML and JS, with CSS formatting. Not that hard.
+-Webpage and uplinks to official non-email pages coded in React, jQuery, Bootstrap
+
 
 - [example 1](https://github.com/xCoderSai/templates/blob/main/image0%20(2).jpeg "Title") and [example 2](https://github.com/xCoderSai/templates/blob/main/image0%20(1).jpeg "Title")
 
