@@ -16,6 +16,7 @@ Some email templates include
 # Features
 - Basic HTML and JS, ReactJS, with CSS formatting. Not that hard.
 -Webpages made in ExpressJS, EmberJS, Bootstrap, React
+- Banned 1, Banned 2, order-amazon are the webpages.. :)
 
 
 - [example 1](https://github.com/xCoderSai/templates/blob/main/image0%20(2).jpeg "Title") and [example 2](https://github.com/xCoderSai/templates/blob/main/image0%20(1).jpeg "Title")
